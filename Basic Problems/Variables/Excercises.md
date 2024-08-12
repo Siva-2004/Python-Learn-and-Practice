@@ -11,4 +11,4 @@
    record^one
    continue
    
-   [Solution]()
+   [Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Variables/Solution.ipynb)
