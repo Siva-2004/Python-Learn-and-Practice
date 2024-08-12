@@ -13,4 +13,4 @@ wrong statement, the correct statement is 'maine 10 samosa khaye'.
 Replace incorrect words in original strong with new ones and print the new string.
 Also try to do this in one line.
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Strings/Solution.ipynb)
