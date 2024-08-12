@@ -10,4 +10,4 @@ cost to replace all tiles. Calculate and print the cost using python
 (Hint: Use power operator ** to find area of a square)
 4. Print binary representation of number 17
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Numbers/Solution.ipynb)
