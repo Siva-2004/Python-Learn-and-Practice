@@ -34,4 +34,4 @@ Using this find out,
 
 
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Lists/Solution.ipynb)
