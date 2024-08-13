@@ -30,4 +30,4 @@ found then it should print that as well.
 ```
 
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/For%20loops/Solution.ipynb)
