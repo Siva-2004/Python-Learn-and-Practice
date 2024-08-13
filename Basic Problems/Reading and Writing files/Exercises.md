@@ -25,3 +25,4 @@ Output.csv should look like this,
 |Reliance|22.23|2.25|
 |Tata Steel|4.39|0.68|
 
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Reading%20and%20Writing%20files/Solution.ipynb)
