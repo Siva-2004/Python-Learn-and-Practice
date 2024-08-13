@@ -12,4 +12,4 @@
     2. If it is below 80 to 100 range then print that sugar is low
     3. If it is above 100 then print that it is high otherwise print that it is normal
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/If%20Conditions/Solution.ipynb)
