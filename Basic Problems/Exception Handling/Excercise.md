@@ -6,4 +6,4 @@
 
 3. Write a Python program that opens a file and handles a FileNotFoundError exception if the file does not exist.
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Exception%20Handling/Solution.ipynb)
