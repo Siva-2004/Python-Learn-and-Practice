@@ -16,4 +16,4 @@ emp = Employee(1, "coder")
 2. Use del property to first delete id attribute and then the entire object
 
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/Basic%20Problems/Classes%20and%20Objects/Solution.ipynb)

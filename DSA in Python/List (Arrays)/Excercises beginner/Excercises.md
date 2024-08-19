@@ -17,7 +17,7 @@ Create a list to store these monthly expenses and using that find out,
     got a refund of 200$. Make a correction to your monthly expense list
     based on this
 
-[Solution]
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/List%20Problems/Excercises%20beginner/expense(Ex_1).py)
 
 2. You have a list of your favourite marvel super heros.
 ```
@@ -35,10 +35,10 @@ Using this find out,
        Do that with one line of code.
     5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 
-[Solution]
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/List%20Problems/Excercises%20beginner/marvel(Ex_2).py)
 
 
 3. Create a list of all odd numbers between 1 and a max number.
 Max number is something you need to take from a user using input() function
 
-[Solution]
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/List%20Problems/Excercises%20beginner/createlist(Ex_3).py)
