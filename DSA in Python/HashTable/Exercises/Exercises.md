@@ -6,7 +6,7 @@
 
 Figure out data structure that is best for this problem
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/HashTable/Exercises/Solution.ipynb)
 
 2. [nyc_weather.csv](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/Solution/nyc_weather.csv) contains new york city weather for first few days in the month of January. Write a program that can answer following,
     1. What was the temperature on Jan 9?
@@ -14,7 +14,7 @@ Figure out data structure that is best for this problem
 
 Figure out data structure that is best for this problem
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/HashTable/Exercises/Solution.ipynb)
 
 3. [poem.txt](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/Solution/poem.txt) Contains famous poem "Road not taken" by poet Robert Frost. You have to read this file in python and print every word and its count as show below. Think about the best data structure that you can use to solve this problem and figure out why you selected that specific data structure.
 ```
@@ -23,8 +23,8 @@ Figure out data structure that is best for this problem
  'I': 8
 ```
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/HashTable/Exercises/Solution.ipynb)
 
 4. Implement hash table where collisions are handled using linear probing. We learnt about linear probing in the video tutorial. Take the hash table implementation that uses chaining and modify methods to use **linear probing**. Keep MAX size of arr in hashtable as 10.
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/HashTable/Exercises/Ex-4%20Implement%20hash%20table%20linear%20probing.py)
