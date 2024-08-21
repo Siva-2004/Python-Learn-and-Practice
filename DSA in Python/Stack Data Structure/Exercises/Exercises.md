@@ -4,7 +4,7 @@
     reverse_string("We will conquere COVID-19") should return "91-DIVOC ereuqnoc lliw eW"
     ```
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/Stack%20Data%20Structure/Exercises/Parenthesis%20validation.py)
 
 2. Write a function in python that checks if paranthesis in the string are balanced or not. Possible parantheses are "{}',"()" or "[]". Use [Stack class](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/5_stack.ipynb) from the tutorial.
     ```
@@ -15,4 +15,4 @@
     is_balanced("[a+b]*(x+2y)*{gg+kk}") --> True
     ```
 
-[Solution]()
+[Solution](https://github.com/Siva-2004/Python-Learn-and-Practice/blob/main/DSA%20in%20Python/Stack%20Data%20Structure/Exercises/StringReversal.py)
